@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#My name is Juan Carlos Rivera, am 20 years old and I am a frontend Developer
 <!--
 **JuanCarlos1207/JuanCarlos1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
